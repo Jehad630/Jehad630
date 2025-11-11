@@ -60,12 +60,18 @@
 ###
 
 <div align="center">
-  <a href="devjehad630@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <!-- Gmail -->
+  <a href="mailto:devjehad630@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+         width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="www.linkedin.com/in/jehad-fostok" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jehad-fostok" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+         width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
+
 
 ###
