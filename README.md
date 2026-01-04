@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Technologies & Tools<br>- **Languages:** Dart, Java, Python, C#<br>- **Frameworks & Libraries:** Flutter, Bloc, Provider, Firebase, GetIt<br>- **Architecture:** MVVM, Clean Architecture<br>- **Database & Backend:** Firebase Firestore, Realtime Database, REST APIs<br>- **Tools:** Android Studio, VS Code, Git, GitHub</p>
+<p align="left">🛠️ Technologies & Tools<br>- **Languages:** Dart, Java, Python, C#<br>- **Frameworks & Libraries:** Flutter, Bloc, Provider, Firebase, GetIt<br>- **Architecture:** MVVM, Clean Architecture<br>- **Database & Backend:** Firebase Firestore, Realtime Database, REST APIs , supabase <br>- **Tools:** Android Studio, VS Code, Git, GitHub</p>
 
 ###
 
