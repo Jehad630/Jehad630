@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">- 💻 I specialize in **Flutter** and **Dart**, creating cross-platform apps with clean architecture and solid state management.<br>- 🧠 Always learning new things — recently diving deeper into **Bloc**, **MVVM**, and **Firebase integration**.<br>- 🧩 I enjoy working with design patterns, clean code, and efficient project structures.<br>- 🎯 My goal is to become an expert in **mobile app development** and contribute to impactful open-source projects.</p>
+<p align="left">- 💻 I specialize in **Flutter** and **Dart**, creating cross-platform apps.<br>- 🧠 Always learning new things — recently diving deeper into **Bloc**, **MVVM**, and **Firebase integration**.<br>- 🧩 I enjoy working with design patterns, clean code, and efficient project structures.<br>- 🎯 My goal is to become an expert in **mobile app development** and contribute to impactful open-source projects.</p>
 
 ###
 
-<p align="left">🛠️ Technologies & Tools<br>- **Languages:** Dart, Java, Python, C#<br>- **Frameworks & Libraries:** Flutter, Bloc, Provider, Firebase, GetIt<br>- **Architecture:** MVVM, Clean Architecture<br>- **Database & Backend:** Firebase Firestore, Realtime Database, REST APIs , supabase <br>- **Tools:** Android Studio, VS Code, Git, GitHub</p>
+<p align="left">🛠️ Technologies & Tools<br>- **Languages:** Dart, Java, Python, C#<br>- **Frameworks & Libraries:** Flutter, Bloc, Provider, Firebase, GetIt<br>- **Architecture:** MVVM  <br>- **Database & Backend:** Firebase Firestore, Realtime Database, REST APIs , supabase <br>- **Tools:** Android Studio, VS Code, Git, GitHub</p>
 
 ###
 
