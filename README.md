@@ -1,4 +1,4 @@
-<p align="left">👋 Hi there, I'm Jehad!<br><br>I'm a passionate **Flutter Developer** who loves building clean, modern, and scalable mobile applications.  <br>I enjoy turning ideas into beautiful, functional apps and exploring new technologies in the mobile ecosystem.</p>
+[cite_start]<p align="left">👋 Hi there, I'm Jehad Fostok!<br><br>I'm a **Computer Engineer** [cite: 2] [cite_start]and dedicated **Flutter Developer** who builds high-performance, cross-platform mobile applications[cite: 8, 24]. [cite_start]Currently, I'm enhancing platforms at **Subh** [cite: 14, 15] [cite_start]and exploring the intersection of AI and mobile development[cite: 17, 33].</p>
 
 ###
 
@@ -6,11 +6,24 @@
 
 ###
 
-<p align="left">- 💻 I specialize in **Flutter** and **Dart**, creating cross-platform apps.<br>- 🧠 Always learning new things — recently diving deeper into **Bloc**, **MVVM**, and **Firebase integration**.<br>- 🧩 I enjoy working with design patterns, clean code, and efficient project structures.<br>- 🎯 My goal is to become an expert in **mobile app development** and contribute to impactful open-source projects.</p>
+<p align="left">
+- [cite_start]💻 Currently working as a **Computer Engineer at Subh**, where I integrated AI-driven debugging to boost code review efficiency by 20%[cite: 14, 17].<br>
+- [cite_start]📱 Previously interned at **Scramblebit**, delivering 5+ cross-platform apps with 95% bug-free deployments[cite: 20, 24, 25].<br>
+- [cite_start]🧠 Deep expertise in **Flutter & Dart**, with a focus on **Bloc/Cubit**, **Clean Architecture**, and **MVVM**[cite: 51, 52, 64].<br>
+- [cite_start]🛡️ Built a **Blockchain E-Voting System** using Solidity to ensure 100% tamper-proof record keeping[cite: 31, 32].<br>
+- [cite_start]🎯 My goal is to deliver high-quality technical solutions that solve real-world problems through robust engineering[cite: 11, 12].
+</p>
 
 ###
 
-<p align="left">🛠️ Technologies & Tools<br>- **Languages:** Dart, Java, Python, C#<br>- **Frameworks & Libraries:** Flutter, Bloc, Provider, Firebase, GetIt<br>- **Architecture:** MVVM, clean architecture  <br>- **Database & Backend:** Firebase Firestore, Realtime Database, REST APIs , supabase <br>- **Tools:** Android Studio, VS Code, Git, GitHub</p>
+<h2 align="left">🛠️ Technologies & Tools</h2>
+
+<p align="left">
+- [cite_start]**Languages:** Flutter, Dart, Java, Python, C#, JavaScript, PHP, Solidity [cite: 9, 31, 50]<br>
+- [cite_start]**Frameworks & State Management:** Bloc, Cubit, Provider, Unity [cite: 44, 52, 69]<br>
+- [cite_start]**Architecture & Backend:** Clean Architecture, MVVM, Firebase, Supabase, REST APIs, SQL [cite: 51, 53, 67]<br>
+- [cite_start]**AI/ML & Tools:** TensorFlow, Scikit-learn, Dialogflow, Git, Postman, AI-driven debugging [cite: 17, 30, 34, 40, 54]
+</p>
 
 ###
 
@@ -21,13 +34,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" alt="git logo"  />
 </div>
@@ -37,41 +48,29 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jehad630&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jehad630&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jehad630&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jehad630&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHU1bTc2M2JmNmt4MHJsN3c3cTgxcDY4cXFzaGFzZXZ6OXlkMGI1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12BYUePgtn7sis/giphy.webp"  />
-
-###
-
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa280M2VzaHkwdW9qdjg3NzcwNWI2aHZkZmQzZnF6OGR2MGNtdWFsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.webp"  />
-
-###
-
-<h3 align="center">⭐ Feel free to explore my repositories and projects! <br>I’m always open to collaboration, feedback, and new opportunities.</h3>
+<h3 align="center">⭐ Specialized in Scalable Mobile Solutions & AI Integration</h3>
+[cite_start]<p align="center">From <b>OCR Attendance Systems</b> to <b>Travel Recommendation Engines</b>, I enjoy tackling complex logic. [cite: 37, 40]</p>
 
 ###
 
 <h3 align="center">📫 Let's Connect</h3>
 
-###
-
 <div align="center">
-  <!-- Gmail -->
   <a href="mailto:devjehad630@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
          width="52" height="40" alt="gmail logo" />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jehad-fostok" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
          width="52" height="40" alt="linkedin logo" />
   </a>
+  <a href="https://jehad-fostok-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" width="40" height="40" alt="portfolio icon" />
+  </a>
 </div>
-
-
-###
